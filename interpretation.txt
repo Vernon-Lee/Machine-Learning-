@@ -1,0 +1,23 @@
+When comparing the 1953 dataset to the 2008 dataset I observed that the countries in cluster 1 decreased
+from 1953 to 2006. The countries in cluster 2 and cluster 3 increased. In the 1953 dataset the life
+expectancy of the first cluster is the lowest. Cluster 2 and cluster 3 have a higher life expectancy
+where cluster 3's life expectancy is the highest. When comparing the 1953 dataset with the 2008 dataset
+it's clear that the life expectancy in of the cluster 1 and 2 decreased while cluster 3's life expectancy
+increased. With these observations it is safe to say that the there were countries who moved from cluster 1
+to cluster 2 and 3 and there could even have been countries that moved from cluster 2 to cluster 3.
+In the datsets there is a clear indecation that the birth rate decreased in all the clusters, so we can assume
+that the birth rate in most or in all the countries have decreased.
+
+When looking at the data from the dataBoth dataset. the data from 2008 and 1953 can be compared by looking
+at the amount of countries that are in each cluster. it is safe to say that there are only 1953 countries 
+in cluster 1. In cluster 2 the 2008 countries are much more than the 1953 countries. In cluster 3 the 1953
+countries are much more than the 1953 countries. In cluster 4 the 2008 countries are much more than the 
+2008 countries. There are clusters that are made up mostly out of 1953 countries and that is cluster 1 and 
+cluster 3. The reason for that the 1953 countries are in these clusters could have to do with the life expectancy.
+ Although these clusters have a higher birth rate they have a lower life expectancy which could be the reason why these
+two clusters contain more of the 1953 countries. There are clustersmade up mostly out of 2008 countries and that clusters
+ are cluster 2 and cluster 4. The reason the 2008 countries is more in these to clusters is because in both of these to 
+cluster the life expectancy is higher than the birth rate which could be a indication that in the 2008 countries there 
+where much less birth's than in the other clusters.
+
+
